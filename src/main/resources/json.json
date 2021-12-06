@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "name": "книга 1",
+      "pages": 100,
+      "author": "Vasia"
+    },
+    {
+      "name": "Книга 2",
+      "pages": 200,
+      "author": "Іван"
+    }
+  ]
+}
